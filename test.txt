@@ -1,6 +1,9 @@
 This is a test file.
 To check commits to master branch.
 To resolve git conflicts
+i
+hello
+This should create conflict 
 hello 
 Commit on master branch
 NinjaRobots
