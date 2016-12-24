@@ -4,3 +4,5 @@ Git is stupid tool
 This
 will 
 conflict
+git is
+

@@ -4,3 +4,6 @@ To resolve git conflicts
 i
 hello
 This should create conflict 
+hello 
+Commit on master branch
+NinjaRobots
